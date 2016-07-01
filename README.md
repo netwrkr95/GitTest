@@ -1,2 +1,2 @@
 # GitTest
-# These is learning repo only
+# These was a learning repo only
